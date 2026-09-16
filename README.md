@@ -31,6 +31,7 @@ There are three notebooks available here to showcase work related to the above q
 1. BootcampStats.ipnyb: Analysis of bootcamp grads in terms of job placement and salary
 2. HowToBreakIntoThefield.ipynb: Analysis of how to become a software developer
 3. Salary.ipnyb: An analysis of the variabes that are related to salary and job satisfaction
+4. Salary_ML.py: A python script that builds a Linear Regression model to predict salary.
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
